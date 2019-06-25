@@ -1,3 +1,3 @@
 # Coding_Practice
 
-This is a repository for practicing coding ability.
+This repository is for practicing coding ability.
