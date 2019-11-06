@@ -79,7 +79,7 @@
 - [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)
 - [Lists](https://www.youtube.com/watch?v=wjI1WNcIntg)
 - [Stacks & Queues](https://www.hackerrank.com/challenges/waiter/problem)
-- [Hash & Maps](https://www.youtube.com/watch?v=shs0KM3wKv8)
+- [Hash & Maps](https://www.youtube.com/watch?v=shs0KM3wKv8) (**Watched**)
 - [Sorting Algorithms](https://www.youtube.com/watch?v=KF2j-9iSf4Q)
 - [Trees](https://www.youtube.com/watch?v=oSWTXtMglKE&t=138s)
 - [Graphs(BFS & DFS)](https://www.youtube.com/watch?v=zaBhtODEL0w)
