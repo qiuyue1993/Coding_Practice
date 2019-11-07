@@ -68,3 +68,8 @@
 - For every radix (from low to high), gather number with same radix
 - Time: n*k
 - Space: n+k
+
+---
+## Note
+- list(map(int, input().rstrip().split()))
+- print(" ".join(map(str, arr)))
