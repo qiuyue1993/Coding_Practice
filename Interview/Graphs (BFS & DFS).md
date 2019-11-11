@@ -5,6 +5,8 @@
 ---
 # Notes
 ## Breath First Search (BFS)
+- Queue
+- For undirected graph, record the edge for two nodes
 
 ## Depth First Search (DFS)
 - backtracking
