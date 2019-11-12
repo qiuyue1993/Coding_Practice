@@ -14,15 +14,20 @@
 - [Graph Data Structure & Algorithms](#Graph-Data-Structure-&-Algorithms)
 ---
 ## Arrays
-
+### Exercises
+- Rotate Matrix
+- Max Sum Contiguous Subarray
 
 ---
 ## Math
+### Exercises
+- Rearrange Array
 
 
 ---
 ## Binary Search
-
+### Exercises
+- Square Root of Integer
 
 ---
 ## Strings
