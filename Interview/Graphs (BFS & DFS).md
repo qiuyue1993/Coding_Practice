@@ -7,6 +7,7 @@
 ## Breath First Search (BFS)
 - Queue
 - For undirected graph, record the edge for two nodes
+- Snakes and Ladders: different layer have different value; find minimum fast
 
 ## Depth First Search (DFS)
 - backtracking
