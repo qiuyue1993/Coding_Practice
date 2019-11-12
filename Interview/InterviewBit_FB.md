@@ -24,8 +24,9 @@
 ---
 ## Math
 ### Exercises
-- Rearrange Array
-
+*Rearrange Array*
+- Tricky
+- Save two number in one number (%, +)
 
 ---
 ## Binary Search
