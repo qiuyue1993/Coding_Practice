@@ -15,7 +15,9 @@
 ---
 ## Arrays
 ### Exercises
-- Rotate Matrix
+*Rotate Matrix*
+- It is important to learn to observe
+
 - Max Sum Contiguous Subarray
 
 ---
