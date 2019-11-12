@@ -18,7 +18,8 @@
 *Rotate Matrix*
 - It is important to learn to observe
 
-- Max Sum Contiguous Subarray
+*Max Sum Contiguous Subarray*
+- Kind of tricky
 
 ---
 ## Math
