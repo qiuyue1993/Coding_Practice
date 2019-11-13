@@ -53,23 +53,27 @@
 ---
 ## Two Pointers
 *Diffk*
-- 
+- Think about the given condition
+- Think carefully
 
 *Intersection Of Sorted Arrays*
-- 
-
+- Very basic and simple
 
 ---
 ## Linked Lists
-
+*Add Two Numbers as Lists*
+- Basic and simple
+- Be carefull
 
 ---
 ## Stacks And Queues
-
+*Evaluate Expression*
+- A simple and basic question
 
 ---
 ## Backtracking
-
+*All Unique Permutations*
+- 
 
 ---
 ## Hashing
