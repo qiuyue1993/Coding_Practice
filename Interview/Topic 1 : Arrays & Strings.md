@@ -4,7 +4,7 @@
 - Left Rotation
 
 # Notes
-- chr(): turn integer to charactor
-- ord(): turn charactor to integer
+- **chr()**: turn integer to charactor
+- **ord()**: turn charactor to integer
 
 
