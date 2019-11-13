@@ -5,6 +5,7 @@
 - [Math](#Math)
 - [Binary Search](#Binary-Search)
 - [Strings](#Strings)
+- [Two Pointers](#Two-Pointers)
 - [Linked Lists](#Linked-Lists)
 - [Stacks And Queues](#Stacks-And-Queues)
 - [Backtracking](#Backtracking)
@@ -48,6 +49,15 @@
 
 *Roman To Integer*
 - Be carefull
+
+---
+## Two Pointers
+*Diffk*
+- 
+
+*Intersection Of Sorted Arrays*
+- 
+
 
 ---
 ## Linked Lists
