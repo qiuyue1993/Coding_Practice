@@ -72,23 +72,48 @@
 
 ---
 ## Backtracking
-*All Unique Permutations*
-- 
+***All Unique Permutations***
+- Feature: every choice is equal; next step depends on the last step;
+- Method: create a check table; create a loop, every time execute a possible choice; create next recursion; recover the choice
+
+*Combination Sum*
+- d
 
 ---
 ## Hashing
+*Substring Concatenation*
+- d
 
+*2 Sum*
+- d
+
+*Diffk II*
+- d
 
 ---
 ## Tree Data Structure
+*Least Common Ancestor*
+- d
 
+*Valid Binary Search Tree*
+- d
 
 ---
 ## Dynamic Programming
+*Longest Increasing Subsequence*
+- d
 
+
+*Unique Paths in a Grid*
+- d
 
 ---
 ## Graph Data Structure & Algorithms
+*Level Order*
+- d
+
+*Clone Graph*
+- d
 
 ---
 - [References](https://www.interviewbit.com/search/?q%5B%5D=Facebook)
