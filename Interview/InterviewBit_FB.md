@@ -31,11 +31,20 @@
 ---
 ## Binary Search
 ### Exercises
-- Square Root of Integer
+*Square Root of Integer*
+- Totally, looping is better than recursion
 
 ---
 ## Strings
+*Implement StrStr*
+- Do things carefully
 
+*Integer To Roman*
+- The rule is the key:
+- Ones place: I V
+- Tens place: X L
+- Hundreds place: C D
+- Thousands place: M
 
 ---
 ## Linked Lists
