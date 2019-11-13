@@ -27,7 +27,7 @@
 ### Exercises
 *Rearrange Array*
 - Tricky
-- Save two number in one number (%, +)
+- **Save two number in one number (%, +)**
 
 ---
 ## Binary Search
