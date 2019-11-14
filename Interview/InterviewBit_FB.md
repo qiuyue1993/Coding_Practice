@@ -93,7 +93,8 @@
 - be carefull
 
 *Diffk II*
-- d
+- dict_.get(key, None)
+- In python, hash table means dictionary
 
 ---
 ## Tree Data Structure
