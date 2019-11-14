@@ -103,13 +103,13 @@
 - DFS: backtracking, need to recover
 
 *Valid Binary Search Tree*
-- d
+- Be careful to read the requirement
 
 ---
 ## Dynamic Programming
-*Longest Increasing Subsequence*
-- d
-
+***Longest Increasing Subsequence***
+- A new type of structure
+- Figure out a smallest case; resorve the case; bigger case is based on the smaller cases
 
 *Unique Paths in a Grid*
 - d
