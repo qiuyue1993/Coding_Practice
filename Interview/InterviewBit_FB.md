@@ -77,7 +77,9 @@
 - Method: create a check table; create a loop, every time execute a possible choice; create next recursion; recover the choice
 
 *Combination Sum*
-- d
+- Very similar with the last question
+- In each recursion, create an ending situation; create current loop; in each loop; make current choice; go to next recursion; recover the choice;
+- Should be very careful
 
 ---
 ## Hashing
