@@ -99,7 +99,8 @@
 ---
 ## Tree Data Structure
 *Least Common Ancestor*
-- d
+- Be carefull
+- DFS: backtracking, need to recover
 
 *Valid Binary Search Tree*
 - d
