@@ -80,14 +80,17 @@
 - Very similar with the last question
 - In each recursion, create an ending situation; create current loop; in each loop; make current choice; go to next recursion; recover the choice;
 - Should be very careful
+- Do not forget anything that should be recover
 
 ---
 ## Hashing
 *Substring Concatenation*
-- d
+- Should be very very carefully
 
 *2 Sum*
-- d
+- dict_.get(key,"None")
+- In python, hash table means dictionary
+- be carefull
 
 *Diffk II*
 - d
