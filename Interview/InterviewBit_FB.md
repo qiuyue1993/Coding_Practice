@@ -115,6 +115,9 @@
 - Matrix DP
 - Figure out a state; figure out how state transform.
 
+*Ways to Decode*
+- Need to think carefully
+- A lot of edge situations
 
 ---
 ## Graph Data Structure & Algorithms
