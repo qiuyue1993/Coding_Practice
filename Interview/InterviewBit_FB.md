@@ -111,8 +111,10 @@
 - A new type of structure
 - Figure out a smallest case; resorve the case; bigger case is based on the smaller cases
 
-*Unique Paths in a Grid*
-- d
+***Unique Paths in a Grid***
+- Matrix DP
+- Figure out a state; figure out how state transform.
+
 
 ---
 ## Graph Data Structure & Algorithms
