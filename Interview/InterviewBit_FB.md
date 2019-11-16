@@ -50,6 +50,14 @@
 *Roman To Integer*
 - Be carefull
 
+*Pretty Json*
+- Too many edges
+- Be carefull
+
+*Count And Say*
+- Basic
+- Be carefull
+
 ---
 ## Two Pointers
 *Diffk*
@@ -58,6 +66,8 @@
 
 *Intersection Of Sorted Arrays*
 - Very basic and simple
+
+
 
 ---
 ## Linked Lists
