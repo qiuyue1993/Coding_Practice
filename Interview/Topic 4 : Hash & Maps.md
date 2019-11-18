@@ -12,3 +12,5 @@
 - O(n) for a terrible hashtable
 - Constant-time, Linear-time
 
+- **dict_.get(k,d)**
+
