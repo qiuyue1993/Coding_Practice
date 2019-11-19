@@ -8,6 +8,9 @@
 ## Height of a Binary Tree
 - using 2 queues
 
+## Heap
+- Cannot figure out the optimal searching 
+
 ## DFS
 - Depth-First-Search
 - Pre-order
