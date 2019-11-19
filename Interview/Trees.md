@@ -5,6 +5,9 @@
 
 ---
 # Notes
+## Height of a Binary Tree
+- using 2 queues
+
 ## DFS
 - Depth-First-Search
 - Pre-order
