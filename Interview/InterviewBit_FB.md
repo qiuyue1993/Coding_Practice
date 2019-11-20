@@ -22,6 +22,9 @@
 *Max Sum Contiguous Subarray*
 - Kind of tricky
 
+### Review 1
+- 2019.11.20
+
 ---
 ## Math
 ### Exercises
@@ -29,11 +32,17 @@
 - Tricky
 - **Save two number in one number (%, +)**
 
+### Review 1
+- 2019.11.20
+
 ---
 ## Binary Search
 ### Exercises
 *Square Root of Integer*
 - Totally, looping is better than recursion
+
+### Review 1
+- 2019.11.20
 
 ---
 ## Strings
@@ -58,6 +67,9 @@
 - Basic
 - Be carefull
 
+### Review 1
+- 2019.11.20
+
 ---
 ## Two Pointers
 *Diffk*
@@ -67,7 +79,14 @@
 *Intersection Of Sorted Arrays*
 - Very basic and simple
 
+*Sort by Color*
+- Insertion sort
 
+*Container With Most Water*
+- Tricky
+
+### Review 1
+- 2019.11.20
 
 ---
 ## Linked Lists
@@ -75,10 +94,16 @@
 - Basic and simple
 - Be carefull
 
+### Review 1
+- 2019.11.20
+
 ---
 ## Stacks And Queues
 *Evaluate Expression*
 - A simple and basic question
+
+### Review 1
+- 2019.11.20
 
 ---
 ## Backtracking
@@ -91,6 +116,9 @@
 - In each recursion, create an ending situation; create current loop; in each loop; make current choice; go to next recursion; recover the choice;
 - Should be very careful
 - Do not forget anything that should be recover
+
+### Review 1
+- 2019.11.20
 
 ---
 ## Hashing
@@ -106,6 +134,9 @@
 - dict_.get(key, None)
 - In python, hash table means dictionary
 
+### Review 1
+- 2019.11.20
+
 ---
 ## Tree Data Structure
 *Least Common Ancestor*
@@ -115,6 +146,8 @@
 *Valid Binary Search Tree*
 - Be careful to read the requirement
 
+### Review 1
+- 2019.11.20
 ---
 ## Dynamic Programming
 ***Longest Increasing Subsequence***
@@ -129,6 +162,9 @@
 - Need to think carefully
 - A lot of edge situations
 
+### Review 1
+- 2019.11.20
+
 ---
 ## Graph Data Structure & Algorithms
 *Level Order*
@@ -138,6 +174,9 @@
 *Clone Graph*
 - Two list to prevent circle
 - DFS
+
+### Review 1
+- 2019.11.20
 
 ---
 - [References](https://www.interviewbit.com/search/?q%5B%5D=Facebook)
