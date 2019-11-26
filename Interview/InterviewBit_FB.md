@@ -41,6 +41,13 @@
 *Square Root of Integer*
 - Totally, looping is better than recursion
 
+*Rotated Array*
+- Carefully, binary research
+
+*Rotated Sorted Array Search*
+- Carefully, binary search
+- Highly similiar with the *Rotated Array*
+
 ### Review 1
 - 2019.11.20
 
@@ -66,6 +73,12 @@
 *Count And Say*
 - Basic
 - Be carefull
+
+*Add Binary Strings*
+- Be carefull
+
+*Reverse the String*
+- Very easy
 
 ### Review 1
 - 2019.11.20
