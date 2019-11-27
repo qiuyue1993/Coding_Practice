@@ -92,11 +92,19 @@
 *Intersection Of Sorted Arrays*
 - Very basic and simple
 
+*3 Sum*
+- Tricky
+- Iterate from two sides of a sorted list to avoid square
+
 *Sort by Color*
 - Insertion sort
 
 *Container With Most Water*
 - Tricky
+
+*3 Sum Zero*
+- Very similar to *3 Sum*
+- Do not forget the repeated numbers, especially for the 
 
 ### Review 1
 - 2019.11.20
