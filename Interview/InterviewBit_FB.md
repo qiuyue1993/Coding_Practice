@@ -123,6 +123,11 @@
 *Evaluate Expression*
 - A simple and basic question
 
+*Largest Rectangle in Histogram*
+- Be very carefull
+- Think about the question carefully
+- Use a stack to save the distance
+
 ### Review 1
 - 2019.11.20
 
