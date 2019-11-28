@@ -143,6 +143,14 @@
 - Should be very careful
 - Do not forget anything that should be recover
 
+*Generate all Paretheses II*
+- Basic backtracking question
+- Be carefull
+
+*Letter Phone*
+- Very basic backtracking question
+
+
 ### Review 1
 - 2019.11.20
 
