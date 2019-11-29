@@ -217,8 +217,9 @@
 - A very basic question
 
 *Clone Graph*
-- Two list to prevent circle
-- DFS
+- Save travelled data to prevent from circle
+- Use hash map to improve the speed
+
 
 ### Review 1
 - 2019.11.20
