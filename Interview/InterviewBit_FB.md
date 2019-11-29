@@ -180,6 +180,9 @@
 *Valid Binary Search Tree*
 - Be careful to read the requirement
 
+*Max Depth of Binary Tree*
+- Very basic DFS
+
 ### Review 1
 - 2019.11.20
 ---
