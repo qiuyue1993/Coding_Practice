@@ -183,6 +183,14 @@
 *Max Depth of Binary Tree*
 - Very basic DFS
 
+*BST Iterator*
+- Consider the basic sequence of a BST traversal
+- Need to travel by left, middle, right
+- Be carefull
+
+*Min Depth of Binary Tree*
+- Very basic DFS
+
 ### Review 1
 - 2019.11.20
 ---
